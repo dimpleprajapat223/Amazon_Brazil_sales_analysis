@@ -1,6 +1,3 @@
-Here's a more **professional, recruiter-friendly, and GitHub portfolio-ready README** for your **Amazon Brazil Sales SQL Analysis Project**.
-
-````md
 # Amazon Brazil Sales Analysis Using SQL
 
 ## 📖 Project Overview
@@ -215,5 +212,4 @@ Through this project, I strengthened my knowledge of:
 
 
 
-This version is suitable for a **professional GitHub portfolio**, recruiter review, and showcasing on LinkedIn. It has a clean structure, emphasizes business value, and highlights your SQL skills effectively.
 
